@@ -1,12 +1,14 @@
 ﻿//  Домашняя работа семинар 3 
 
-// Задача 23
+//  Задача 23
 // Напишите программу, которая принимает на вход число (N) и выдаёт таблицу кубов чисел от 1 до N.
 
 // void Square(int num){
 //     int current = 1;
 //     while(current <= num){
-//     Console.Write(current*current + ", ");
+//     // поправил, теперь находит куб.     
+//     Console.Write(current*current*current + ", ");
+//     // Счетчик 
 //     current++;}
     
 // }
